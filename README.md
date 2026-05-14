@@ -23,4 +23,5 @@ cd C:\Users\Home\Desktop\TechBrains\FinTech\services\trading-journal-mobile-rela
 
 - `GET /api/health`
 - `PUT /api/trading-journal/mobile/cloud/snapshots/{installation_id}`
+- `GET /api/trading-journal/mobile/cloud/snapshots/{installation_id}/meta`
 - `GET /api/trading-journal/mobile/cloud/snapshots/{installation_id}`
